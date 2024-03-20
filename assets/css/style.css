@@ -1,6 +1,17 @@
 body{
     background-color: blueviolet;
 }
-h1{
-    
+header h1{
+    text-transform: uppercase;
+    font-weight: 900;
+    font-family: 'franklin gothic medium';
+    text-align: center;
+    max-width: 80%;
+    color: yellow;
+    margin: 0 auto;
+    margin-top: 1rem;
+    border-radius: .3rem;
+    padding-top: .5rem;
+    padding-bottom: .5rem;
+
 }
